@@ -3,6 +3,7 @@
  * @description
  */
 module.exports = {
+  theme: 'reco',
   title: '小龙进阶',
   description:'小龙进阶，大家一起学习一起进步'
 }

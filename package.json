@@ -9,7 +9,9 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
-  "devDependencies": {
-    "vuepress": "^1.7.1"
+  "devDependencies": {},
+  "dependencies": {
+    "vuepress": "^1.7.1",
+    "vuepress-theme-reco": "^1.5.7"
   }
 }
