@@ -1,6 +1,7 @@
 {
   "name": "ytl003",
   "version": "1.0.0",
+  "description": "小龙进阶，大家一起学习一起进步",
   "main": "index.js",
   "repository": "https://gitee.com/ytl003/ytl003.git",
   "author": "ytl003",
