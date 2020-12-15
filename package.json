@@ -7,8 +7,8 @@
   "author": "ytl003",
   "license": "MIT",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
   },
   "devDependencies": {
     "vuepress-plugin-comment": "^0.7.3"
