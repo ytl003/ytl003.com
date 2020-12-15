@@ -16,3 +16,34 @@ tags:
 1、 首先得知道markdown是啥吧，就是语法，那着一块对于学编程得同学来说就是个把小时得事情 [传送门](https://www.runoob.com/markdown/md-tutorial.html)
 
 ![](http://qcdn.ytl003.com/md/2020-12-15/708977032087480.png)
+
+
+## 安装
+``` js
+# 安装
+yarn global add vuepress # 或者：npm install -g vuepress
+
+# 新建一个 markdown 文件
+echo '# Hello VuePress!' > README.md
+
+# 开始写作
+vuepress dev .
+
+# 构建静态文件
+vuepress build .
+```
+
+## 安装
+``` js
+# 安装
+yarn global add vuepress # 或者：npm install -g vuepress
+
+# 新建一个 markdown 文件
+echo '# Hello VuePress!' > README.md
+
+# 开始写作
+vuepress dev .
+
+# 构建静态文件
+vuepress build .
+```
