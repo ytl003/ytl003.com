@@ -8,7 +8,7 @@ const locales = require('./config/locales')
 const blogConfig = require('./config/blog-config')
 const sidebar = require('./config/sidebar')
 module.exports = {
-  title: '小龙进阶',
+  title: '独慕日记',
   description: description,
   head: [
     ['link', { rel: 'icon', href: 'https://qcdn.ytl003.com/md/2020-12-13/580015827729783.jpg' }],
@@ -36,7 +36,7 @@ module.exports = {
     noFoundPageByTencent: false,
     // huawei: true,
     authorAvatar: 'http://qcdn.ytl003.com/md/2020-12-13/580015827729783.jpg',
-    author: '小萌龙',
+    author: '独慕',
     // 评论
     valineConfig: {
       appId: 'H9DpbD4dFBhezqnCOsfCoc4w-gzGzoHsz',// your appId
