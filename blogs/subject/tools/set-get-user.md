@@ -2,9 +2,9 @@
 title: 设置git用户信息
 date: 2020-12-18
 categories:
- -tools
+ - tools
 tags:
- -git
+ - git
 ---
 
 ```shell
