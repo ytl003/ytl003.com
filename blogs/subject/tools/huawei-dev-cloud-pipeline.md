@@ -1,7 +1,8 @@
 ---
 title: 华为devCloud——流水线
 date: 2020-12-16
-description: 
+description: 华为devCloud——流水线
+sidebar: false
 categories:
  - tools
 tags:
