@@ -1,7 +1,6 @@
 ---
 title: 设置git用户信息
 date: 2020-12-18
-description: 设置git用户信息
 categories:
  -tools
 tags:
