@@ -2,5 +2,5 @@ git add .
 
 git commit -m “publish”
 
-git push
+git push origin
 

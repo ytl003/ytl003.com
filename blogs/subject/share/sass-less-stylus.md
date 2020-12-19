@@ -10,7 +10,7 @@ tags:
  - Stylus
 ---
 
-::: 摘要
+:::  tip 摘要
 
 转自 [https://blog.csdn.net/pedrojuliet/article/details/72887490](https://blog.csdn.net/pedrojuliet/article/details/72887490)
 
@@ -103,7 +103,7 @@ body {
   color: @maincolor;
   border: 1px @borderStyle @mainColor;
   max-width: @siteWidth;
-}12345678
+}
 ```
 
 **3.stylus：**
@@ -118,7 +118,7 @@ borderStyle = dotted
 body 
   color maincolor
   border 1px borderStyle mainColor
-  max-width siteWidth1234567
+  max-width siteWidth
 ```
 
 以上三种写法都如同一下这种css：
@@ -273,7 +273,7 @@ h1
 
 很多 CSS 开发者对导入的做法都不太感冒，因为它需要多次的 HTTP 请求。但是在 CSS 预处理器中的导入操作则不同，它只是在语义上包含了不同的文件，但最终结果是一个单一的 CSS 文件，如果你是通过 @ import “file.css”; 导入 CSS 文件，那效果跟普通的 CSS 导入一样。
 
-> **注意：**导入文件中定义的混入、变量等信息也将会被引入到主样式文件中，因此需要避免它们互相冲突。
+> 注意：导入文件中定义的混入、变量等信息也将会被引入到主样式文件中，因此需要避免它们互相冲突。
 
 例如：
 1.css:
