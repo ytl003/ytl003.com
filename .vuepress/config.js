@@ -24,7 +24,6 @@ module.exports = {
   },
   theme: 'reco',
   themeConfig: {
-
     // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
     docsRepo: 'https://gitee.com/ytl003/ytl003/',
     editLinks: true,
