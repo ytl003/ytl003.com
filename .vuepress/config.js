@@ -25,7 +25,7 @@ module.exports = {
   theme: 'reco',
   themeConfig: {
     // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
-    docsRepo: 'https://gitee.com/ytl003/ytl003/',
+    docsRepo: 'https://gitee.com/mdumu/dumublog',
     editLinks: true,
     editLinkText: '在gitee上编辑！',
     lastUpdated: '最后编辑于',
