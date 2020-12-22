@@ -43,7 +43,7 @@ module.exports = {
     },
     // 备案
     record: '蜀ICP备16001070',
-    recordLink: 'ICP 备案指向链接',
+    recordLink: 'http://beian.miit.dov.cn/',
     // 项目开始时间，只填写年份
     startYear: '2020',
     // 博客配置

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "独慕日记，大家一起学习一起进步",
   "main": "index.js",
-  "repository": "https://gitee.com/ytl003/ytl003.git",
+  "repository": "https://gitee.com/mdumu/dumublog.git",
   "author": "ytl003",
   "license": "MIT",
   "scripts": {
