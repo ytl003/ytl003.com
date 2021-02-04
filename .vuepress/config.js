@@ -51,6 +51,6 @@ module.exports = {
     nav: nav,
     sidebar: sidebar,
     docsDir: 'docs',
-    // type: 'blog',
+    type: 'blog',
   }
 }
