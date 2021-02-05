@@ -17,19 +17,17 @@ tags:
 
 
 
-首先是简单的开箱
+## 首先是简单的开箱
 
-![img](https://wx2.sinaimg.cn/large/005ZdAupgy1gnbma8vgc9j30n40fmk5x.jpg)
+![image-20210205090056871](http://qcdn.ytl003.com/md/image-20210205090056871.png)
 
 
 
-![img](https://wx1.sinaimg.cn/large/005ZdAupgy1gnbm6ujcw3j30n40hc1f9.jpg)
+![image-20210205090113857](http://qcdn.ytl003.com/md/image-20210205090113857.png)
 
 这就是里面的所有东西了~
 
-![img](https://wx2.sinaimg.cn/large/005ZdAupgy1gnbmaqhgmgj30n40fmat2.jpg)
-
-
+![image-20210205090125179](http://qcdn.ytl003.com/md/image-20210205090125179.png)
 
 这个是主机，我的是一个淡紫色，旗舰店还有其他的颜色，但都挺好看的，小巧玲珑，大概有我1/3个手掌那么大。
 
@@ -39,33 +37,27 @@ tags:
 
 (这个主机是充电的，配有一根数据线，第一次用要把电充满，充满后中间的指示灯会亮满五格)
 
-
-
-![img](https://wx3.sinaimg.cn/large/005ZdAupgy1gnbmbe4t2lj30n40fme2c.jpg)
-
-
+![image-20210205090137424](http://qcdn.ytl003.com/md/image-20210205090137424.png)
 
 这个白色的是个旅行盒，方便出门携带的。
 
-![img](https://wx4.sinaimg.cn/large/005ZdAupgy1gnbmboezwuj30n40fmwxd.jpg)
-
-
+![image-20210205090147411](http://qcdn.ytl003.com/md/image-20210205090147411.png)
 
 这个是水性胶垫的电极片，撕开透明膜就可以贴在身上痛的地方了，注意这个透明膜别扔了，放回盒子里可以多用几次的。
 
-![img](https://wx1.sinaimg.cn/large/005ZdAupgy1gnbmbv1xu2j30n40uskjl.jpg)
+![image-20210205090156408](http://qcdn.ytl003.com/md/image-20210205090156408.png)
 
 插在主机上，点中间的开关，调节适合自己的强度，就可以使用啦。
 
 我是把这个电极片直接贴在小腹上的(图片放裤子上是演示)，主机别在裤子上，很小，看不出来的。
 
-![img](https://wx1.sinaimg.cn/large/005ZdAupgy1gnbmc0z1e4j30n40fmh87.jpg)
+![image-20210205090207406](http://qcdn.ytl003.com/md/image-20210205090207406.png)
 
 这是赠送的两包电极片。
 
  
 
-☞☞使用感受
+## ☞☞使用感受
 
 我是在大姨妈第一天使用的，当时我已经比较痛了。
 
@@ -93,7 +85,7 @@ tags:
 
  
 
-☞☞整体感觉
+## ☞☞整体感觉
 
 外观★★★★★
 
