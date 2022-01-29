@@ -42,8 +42,8 @@ module.exports = {
       appKey: 'OUOf5waDIqiArthJfsLczubS' // your appKey
     },
     // 备案
-    record: '蜀ICP备16001070',
-    recordLink: 'http://beian.miit.dov.cn/',
+    record: '蜀ICP备16001070-8号',
+    recordLink: 'https://beian.miit.gov.cn/',
     // 项目开始时间，只填写年份
     startYear: '2020',
     // 博客配置
