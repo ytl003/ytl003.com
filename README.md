@@ -1,10 +1,9 @@
 ---
 home: true
-heroImage: http://qcdn.ytl003.com/md/2020-12-13/580015827729783.jpg
-heroText: 大家好我是独慕，欢迎来到独慕日记
-tagline: 分享一些计算机编程小知识，希望和大家一起成长！biubiubiu~
+heroImage: http://qcdn.ytl003.com/avatar.jpg
+heroText: 大家好我是ytl003，一位热爱code的同学。
+tagline: 这里不定期会有一些分享
 actionText: 马上开始 →
 actionLink: /tag/
-footer: Copyright © 2020 独慕
+footer: Copyright © 2020 ytl003.com
 ---
-
